@@ -1,4 +1,9 @@
-"""Neural network model implementation."""
+"""Neural network model implementation.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import List
 import torch

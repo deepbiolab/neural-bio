@@ -1,4 +1,9 @@
-"""Bioreactor model package."""
+"""Bioreactor model package.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 # Config
 from .config.default_config import get_default_config

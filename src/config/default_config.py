@@ -1,4 +1,9 @@
-"""Default configuration for the bioreactor model."""
+"""Default configuration for the bioreactor model.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import Dict, Any
 

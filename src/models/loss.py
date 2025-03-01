@@ -1,4 +1,9 @@
-"""Loss functions for hybrid model training."""
+"""Loss functions for hybrid model training.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import List, Optional, Tuple, Union
 import torch

@@ -1,4 +1,9 @@
-"""Evaluation metrics and utilities."""
+"""Evaluation metrics and utilities.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import List, Dict, Union, Any
 

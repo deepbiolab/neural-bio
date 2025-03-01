@@ -1,4 +1,9 @@
-"""Main entry point for the bioreactor hybrid model training and inference."""
+"""Main entry point for the bioreactor hybrid model training and inference.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 import argparse
 import torch

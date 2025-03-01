@@ -1,4 +1,9 @@
-"""Visualization utilities for training and prediction results."""
+"""Visualization utilities for training and prediction results.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 import os
 from typing import List, Optional, Union, Dict, Any

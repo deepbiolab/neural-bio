@@ -1,4 +1,9 @@
-"""Data processing utilities."""
+"""Data processing utilities.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import List, Tuple
 import numpy as np

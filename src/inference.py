@@ -1,4 +1,9 @@
-"""Inference utilities and functions."""
+"""Inference utilities and functions.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import Dict, List, Tuple, Any
 import torch

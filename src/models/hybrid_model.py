@@ -1,4 +1,9 @@
-"""Hybrid model combining neural network with physics-based constraints."""
+"""Hybrid model combining neural network with physics-based constraints.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 from typing import Union
 import numpy as np

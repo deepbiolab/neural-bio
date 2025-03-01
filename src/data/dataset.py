@@ -1,4 +1,9 @@
-"""Bioreactor dataset implementation."""
+"""Bioreactor dataset implementation.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 import os
 from typing import Tuple, List, Optional, Union

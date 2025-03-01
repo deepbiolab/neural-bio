@@ -1,4 +1,9 @@
-"""Training utilities and functions."""
+"""Training utilities and functions.
+
+Author: Tim Lin
+Organization: DeepBioLab
+License: MIT License
+"""
 
 import os
 from typing import Dict, List, Optional, Tuple, Any, Union
